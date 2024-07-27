@@ -56,3 +56,8 @@ ex: N=7, w=3
 ex: a=12
     31
 </pre>
+
+**leapyear.c**
+>Give a year.\
+>Get "Leap" if it's a leap year.\
+>Get "Normal" if it's not a leap year.
