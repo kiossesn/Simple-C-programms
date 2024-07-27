@@ -13,7 +13,7 @@
 >Get each word of the text in alphabetical order.\
 >Only words, no numbers.
 
-**printApyramid**
+**printApyramid.c**
 >Give a number of pyramid levels (<=10).\
 >Print a pyramid of * (stars).\
 <pre>
@@ -21,5 +21,20 @@ ex: n=4
    *
   ***
  *****
+*******
+</pre>
+
+**drawbox.c**
+>Draw a box of * (stars).
+>N: side length
+>w: width (must be <=N/2)
+<pre>
+ex: N=7, w=3
+*******
+*******
+*******
+*** ***
+*******
+*******
 *******
 </pre>
