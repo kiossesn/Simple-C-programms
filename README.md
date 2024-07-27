@@ -44,3 +44,7 @@ ex: N=7, w=3
 >Get hash string.\
 >Then do the opposite.\
 >Just swift each letter by two on the ascii value.
+
+**goldbachs.conjecture.c**
+>Give an even integer over 2 (N).\
+>Get two prime numbers that add up to this number.
