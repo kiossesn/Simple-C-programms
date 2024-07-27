@@ -65,3 +65,7 @@ ex: a=12
 **CelsiusAndFahrenheit.c**
 >Give a temperature and a metric ("c" for Celsius or "f" for Fahrenheit).\
 >Get the temperature in Celsius and Fahrenheit.
+
+**getPrimes.c and getPrimes.h**
+>Get all the primes between two numbers.\
+>First, give min value and max value.
