@@ -1,5 +1,6 @@
 /* Give a message to encrypt.
  * Get hash string.
+ * Then do the opposite.
  * Just swift each letter by two on the ascii value.
  */
 #include <stdio.h>
