@@ -12,3 +12,14 @@
 >Give a string with plenty of words (text).\
 >Get each word of the text in alphabetical order.\
 >Only words, no numbers.
+
+**printApyramid**
+>Give a number of pyramid levels (<=10).\
+>Print a pyramid of * (stars).\
+<pre>
+ex: n=4
+   *
+  ***
+ *****
+*******
+</pre>
