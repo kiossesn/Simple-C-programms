@@ -7,3 +7,8 @@
 >Give the number of disks.\
 >Get the moves you have to do to solve the problem.\
 >The program is recursive.
+
+**string.words.in.alphabetical.order.c**
+>Give a string with plenty of words (text).\
+>Get each word of the text in alphabetical order.\
+>Only words, no numbers.
