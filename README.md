@@ -61,3 +61,7 @@ ex: a=12
 >Give a year.\
 >Get "Leap" if it's a leap year.\
 >Get "Normal" if it's not a leap year.
+
+**CelsiusAndFahrenheit.c**
+>Give a temperature and a metric ("c" for Celsius or "f" for Fahrenheit).\
+>Get the temperature in Celsius and Fahrenheit.
