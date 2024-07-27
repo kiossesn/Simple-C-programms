@@ -42,5 +42,5 @@ ex: N=7, w=3
 **hash.c**
 >Give a message to encrypt.\
 >Get hash string.\
->Then do the opposite.
+>Then do the opposite.\
 >Just swift each letter by two on the ascii value.
