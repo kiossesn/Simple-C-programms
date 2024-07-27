@@ -48,3 +48,11 @@ ex: N=7, w=3
 **goldbachs.conjecture.c**
 >Give an even integer over 2 (N).\
 >Get two prime numbers that add up to this number.
+
+**daysOfTheMonth.c**
+>Give a month (integer).\
+>Get number of days the month has.
+<pre>
+ex: a=12
+    31
+</pre>
