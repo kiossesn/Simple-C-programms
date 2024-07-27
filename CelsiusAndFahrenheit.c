@@ -1,4 +1,4 @@
-/* Give a temperature and a metric ("c" for Celsius or "f" for Fahrenheit)
+/* Give a temperature and a metric ("c" for Celsius or "f" for Fahrenheit).
  * Get the temperature in Celsius and Fahrenheit.
  */
 #include <stdio.h>
