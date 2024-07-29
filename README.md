@@ -9,11 +9,13 @@
 >The program is recursive.
 
 **string.words.in.alphabetical.order.c**
+[string.words.in.alphabetical.order.pdf](https://github.com/user-attachments/files/16405807/string.words.in.alphabetical.order.pdf)
 >Give a string with plenty of words (text).\
 >Get each word of the text in alphabetical order.\
 >Only words, no numbers.
 
 **printApyramid.c**
+[printApyramid.pdf](https://github.com/user-attachments/files/16405805/printApyramid.pdf)
 >Give a number of pyramid levels (<=10).\
 >Print a pyramid of * (stars).\
 <pre>
@@ -25,6 +27,7 @@ ex: n=4
 </pre>
 
 **drawbox.c**
+[drawbox.pdf](https://github.com/user-attachments/files/16405806/drawbox.pdf)
 >Draw a box of * (stars).
 >N: side length
 >w: width (must be <=N/2)
